@@ -39,7 +39,7 @@ npm run dev
 
 ---
 
-## <img src="https://github.com/AngelDavidStudios/calculadora-propinas/blob/main/src/resources/ads-emote.JPG" width="40" height="40"> Hola, mi nombre es David Angel.
+## <img src="https://github.com/AngelDavidStudios/calculadora-propinas/blob/main/src/resources/ads-emote.JPG" width="55" height="55"> Hola, mi nombre es David Angel.
 ### Multimedia Desginer & Software Architect 
 
 Soy diseñador Multimedia cursando una segunda carrera en Ingenieria de Software, me estoy especializando en el desarrollo Backend como arquitecto de software, en este recorrido dia tras dia aprendo tecnologias nuevas.
