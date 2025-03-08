@@ -39,7 +39,7 @@ npm run dev
 
 ---
 
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es David Angel.
+## ![https://mouredev.com](https://github.com/AngelDavidStudios/calculadora-propinas/blob/main/src/resources/ads-emote.JPG?raw=true) Hola, mi nombre es David Angel.
 ### Multimedia Desginer & Software Architect 
 
 Soy diseñador Multimedia cursando una segunda carrera en Ingenieria de Software, me estoy especializando en el desarrollo Backend como arquitecto de software, en este recorrido dia tras dia aprendo tecnologias nuevas.
